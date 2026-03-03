@@ -1,0 +1,22 @@
+{
+  "name": "bootcamp-sample",
+  "version": "1.0.0",
+  "description": "leccion de manzdev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "html"
+  ],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.30.3",
+  "type": "module",
+  "devDependencies": {
+    "oxfmt": "^0.36.0",
+    "oxlint": "^1.51.0",
+    "servor": "^4.0.2"
+  }
+}
